@@ -513,3 +513,5 @@ span.micro {
 /* @group Overrides */
 
 /* @end */
+#page8 ul { margin: 0; list-style: none; }
+#page8 input { border:0; border-bottom: 1px solid #777; height: 27px; display: block; width: 100%; font-size: 12px; }
