@@ -515,3 +515,7 @@ span.micro {
 /* @end */
 #page8 ul { margin: 0; list-style: none; }
 #page8 input { border:0; border-bottom: 1px solid #777; height: 27px; display: block; width: 100%; font-size: 12px; }
+
+.instructions { display: block; margin: 20px 20px; border-top: 1px solid #777; padding-top: 5px; }
+.instructions h2 { border: 0; margin: 5px 0; text-align: left; font-size: 1.2em; }
+.instructions ul { margin-bottom: 30px; }
